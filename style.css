@@ -1,0 +1,22 @@
+body {
+
+background-image: url(abstract-dark-black-background-de-focused-free-photo.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+.contenedor{
+    display: grid;
+    justify-content: center;
+}
+
+.imagen-1{
+    width: 300px;
+    display: grid;
+    height: 450px;
+    margin-right: 150rem;
+    margin-top: 1px;
+}
